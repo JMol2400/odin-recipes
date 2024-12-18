@@ -1,1 +1,1 @@
-# odin-recipes
+This Project will demonstrate the creation of a website , using html in that process . This website will have four pages that will demonstrate the basic use of html.  Throughout this project we will go over index file creation, Git commands, creating links and the use of  html boilerplate in the creation of the website.
